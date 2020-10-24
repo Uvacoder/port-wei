@@ -4,6 +4,9 @@
   <h1 align="center">
     <b>Hello there, I'm <a href="https://github.com/wei">@wei</a> 👋</b>
   </h1>
+  <p align="center">
+    <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Solutions Architect Expert" | "💼 M.B.A." )</samp>
+  </p>
 </p>
 
 <p align="center">
