@@ -32,4 +32,7 @@
   <a href="https://github.com/wei">
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-wei&label=visitors&color=grey&style=flat" />
   </a>
+  <a class="drift-open-chat" href="https://whe.me?chat">
+    <img src="https://img.shields.io/badge/Chat_now-46955c?logo=googlemessages&logoColor=white&style=flat-square" />
+  </a>
 </p>
