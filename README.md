@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/5880908/92062256-48ad8580-ed66-11ea-8e47-c2d8bfc51891.png)
+![](assets/images/header.png)
 
 <p>
   <h1 align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/wei">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wei&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wei&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
   </a>
 </p>
 

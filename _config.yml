@@ -1,0 +1,12 @@
+title: Wei He
+domain: whe.me
+url: https://whe.me
+image: https://avatars.githubusercontent.com/u/5880908
+description: >-
+  Hello there, I'm @wei 👋
+  ( "👨‍💻 Full Stack Engineer" | "☁️ Solutions Architect Expert" | "💼 M.B.A." )
+
+plugins:
+  - jekyll-readme-index
+  - jekyll-seo-tag
+  - github-pages
